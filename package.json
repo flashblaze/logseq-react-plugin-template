@@ -1,6 +1,6 @@
 {
-  "name": "parcel-logseq-plugin-react",
-  "version": "0.0.1",
+  "name": "logseq-react-plugin-template",
+  "version": "0.0.2",
   "source": "src/index.html",
   "main": "dist/index.html",
   "scripts": {
@@ -27,7 +27,7 @@
     "rimraf": "^5.0.1"
   },
   "logseq": {
-    "id": "_flashblaze-parcel-logseq-plugin-react"
+    "id": "_flashblaze-logseq-react-plugin-template"
   },
   "targets": {
     "main": false,
